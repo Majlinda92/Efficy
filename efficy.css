@@ -1,0 +1,11 @@
+body
+
+button[type=submit]{
+     
+        display: block;
+        border: 1px solid black;
+        width: 100px;
+        text-align: center;
+        margin-top: 10px;
+        
+}
